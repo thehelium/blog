@@ -3,6 +3,9 @@
 ![Relative date](https://img.shields.io/date/1668686594?style=flat-square)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/thehelium/blog?style=flat-square)
 
+## Note
+**The project is currently under construction, but can be installed locally using the package manager**
+
 ## 🧷Stack
 
 - [Next.js](https://nextjs.org/) - A React framework with hybrid static & server rendering, and route pre-fetching, etc.
