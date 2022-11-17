@@ -1,7 +1,7 @@
 # Harris Tsai's site
 
 ![Relative date](https://img.shields.io/date/1668686594?style=flat-square)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/thehelium/blog)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/thehelium/blog?style=flat-square)
 
 ## 🧷Stack
 
