@@ -24,6 +24,7 @@ export default function RootLayout({
           <main className="container m-auto mt-16 max-w-screen-lg flex-grow px-5 sm:px-12 md:px-20">
             {children}
           </main>
+
           <Footer />
         </div>
       </m.body>
