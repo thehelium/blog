@@ -19,7 +19,6 @@
       "~/*": ["app/*"],
       "config/*": ["app/_config/*"],
       "shared/*": ["app/_shared/*"],
-      "@/ui/*": ["src/types/ui/*"],
       "@/types/*": ["src/types/*"],
       "@/styles/*": ["src/styles/*"],
       "@/hooks/*": ["src/hooks/*"],
